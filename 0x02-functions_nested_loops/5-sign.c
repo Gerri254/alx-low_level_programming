@@ -27,5 +27,3 @@ int print_sign(int n)
 	}
 	_putchar('\n');
 }
-Footer
-© 2023 GitHub, Inc.
